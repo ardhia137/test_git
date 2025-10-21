@@ -48,6 +48,7 @@ go run main.go
 
  ### Frontend
  
+ - Masuk Repository
 ``` bash
 cd nama-repo
  ```
